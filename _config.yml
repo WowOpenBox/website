@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: WoW Addons (Open Source)
-description: Open Source WoW Addons downloader. Ensures you are using truly free software that won't turn abandoned because of "All Rights Reserved" short sighted copyright.
+description: Open Source WoW Addons downloader. Ensures you are using truly free software that won't turn abandoned because of "All Rights Reserved" short-sighted copyright and no valid OSS license.
 logo: WowAddons.png
 google_analytics: UA-145373855-1
 show_downloads: false
