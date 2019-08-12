@@ -26,6 +26,10 @@
 
 - (Optional) Upload to curseforge and wowinterface
 
+## Open questions
+
+- Is it possible that this is also ran user side and merged into the downloader?
+
 ## See also
 The [downloader](downloader.md).
 
