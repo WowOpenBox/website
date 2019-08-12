@@ -26,6 +26,8 @@
 
 - (Optional) Upload to curseforge and wowinterface
 
+## See also
+The [downloader](downloader.md).
 
 ## Discuss!
 

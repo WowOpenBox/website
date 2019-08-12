@@ -18,6 +18,9 @@ User/client side software maintaining addons updated
   - get a cdn sponsor ?
   - use github release pages as cdn
 
+## See also
+The [packager](packager.md).
+
 ## Discuss!
 
 Open a Github issue and discuss ! or on our [discord](https://discord.gg/t8msyQU) server.
