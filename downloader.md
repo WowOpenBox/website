@@ -7,7 +7,7 @@ User/client side software maintaining addons updated
 
 - Simple UI but also "all background" mode just keeping stuff up to date
 
-- Scan/crawl all addons for OSS license and addition (maybe work with https://www.townlong-yak.com/globe/ there too)
+- Scan/crawl all addons for OSS license and addition (maybe work with [Globe](https://www.townlong-yak.com/globe/) there too)
 
 - (maybe?) Flags non OSS addons (maybe suggest replacements)
 
@@ -20,5 +20,5 @@ User/client side software maintaining addons updated
 
 ## Discuss!
 
-Open a Github issue and discuss ! or on discord https://discord.gg/t8msyQU
+Open a Github issue and discuss ! or on our [discord](https://discord.gg/t8msyQU) server.
 

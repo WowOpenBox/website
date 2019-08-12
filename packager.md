@@ -16,7 +16,7 @@
   - pattern ignore exclusion (e.g `*.bat`, `*.sh`...) and inclusion lists (e.g. `*.lua`)
     - recursively into dependencies (a lib dependency should alone specify files to be ignored/used)
   - ChangeLog
-  - and possibly more from https://authors.curseforge.com/knowledge-base/projects/3451-automatic-packaging
+  - and possibly more from [curseforge's doc](https://authors.curseforge.com/knowledge-base/projects/3451-automatic-packaging)
 
 - Clean code, not a huge spaghetti shell script
 
@@ -29,4 +29,4 @@
 
 ## Discuss!
 
-Open a Github issue and discuss ! or on discord https://discord.gg/t8msyQU
+Open a Github issue and discuss ! or on our [discord](https://discord.gg/t8msyQU) server.
