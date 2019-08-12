@@ -18,7 +18,7 @@
   - ChangeLog
   - and possibly more from [curseforge's doc](https://authors.curseforge.com/knowledge-base/projects/3451-automatic-packaging)
 
-- Clean code, not a huge spaghetti shell script
+- Ideally, clean code, not a huge unwieldy shell script
 
 - Runs on free CI (circleci, ...)
 
@@ -27,6 +27,8 @@
 - (Optional) Upload to curseforge and wowinterface
 
 ## Open questions
+
+- Start from/contribute to [github.com/BigWigsMods/packager](https://github.com/BigWigsMods/packager)
 
 - Is it possible that this is also ran user side and merged into the downloader?
 
