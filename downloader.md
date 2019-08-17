@@ -17,6 +17,8 @@ User/client side software maintaining addons updated
   - forward to twitch cdn
   - get a cdn sponsor ?
   - use github release pages as cdn
+  
+- Look at [existing addon managers](https://github.com/ogri-la/wowman#other-addon-managers)
 
 ## See also
 The [packager](packager.md).
