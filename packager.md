@@ -29,7 +29,7 @@
 ## Open questions
 
 - Start from/contribute to [github.com/BigWigsMods/packager](https://github.com/BigWigsMods/packager)
-(tried contributing but the maintainers are quite unfriendly and reject PRs and suggestions and even delete comments for no reason so probably a fork is a better starting point, https://github.com/mooreatv/packager or https://github.com/Wutname1/packager)
+(tried contributing but the maintainers are quite unfriendly and reject PRs and suggestions and even delete comments for no reason so probably a fork is a better starting point, [github.com/mooreatv/packager](https://github.com/mooreatv/packager) or [github.com/Wutname1/packager](https://github.com/Wutname1/packager))
 
 - Is it possible that this is also ran user side and merged into the downloader?
 
