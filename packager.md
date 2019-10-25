@@ -20,7 +20,7 @@
 
 - Ideally, clean code, not a huge unwieldy shell script
 
-- Runs on free CI (circleci, ...)
+- Runs on free CI (circleci, ...). Update: we can now simply use GitHub actions, e.g. [github.com/mooreatv/NeatMinimap/blob/master/.github/workflows/packaging.yaml](https://github.com/mooreatv/NeatMinimap/blob/master/.github/workflows/packaging.yaml)
 
 - Uploads to github release page
 
