@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 title: WoW Open Box (Open Source World of Warcraft Multiboxing)
 description: Open Source World of Warcraft rules compliant multiboxing.
 logo: WoWOpenBox.png
-google_analytics: G-CQ6Q56PRTJ
+google_analytics: UA-145373855-1
 show_downloads: false
 github.is_project_page: false
