@@ -4,5 +4,5 @@ Welcome to WowOpenBox.org the hub for truly Open Source and Blizzard rules compl
 
 We just started this effort Mid November 2020!
 
-Join the conversation through GitHub issues, PRs, or [Discord](https://discord.gg/t8msyQU)
+Join the conversation through GitHub issues, PRs, or [Discord](https://discord.gg/SMGvEeb)
 
