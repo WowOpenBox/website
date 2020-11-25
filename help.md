@@ -8,6 +8,8 @@
 
 1. Use the Bnet launcher to start your wow windows, make them "Fullscreen (Windowed)" so they are border and titlebar less and exact dimension of the windows.
 
+1. Press a hotkey to change which window gets the keyboard input: default key are `Ctrl-F1` for Wow 1, `Ctrl-F2` for Wow 2, etc.. changeable in settings.
+
 *: You can change both settings at any time and they will be saved, per window index.
 
 Your settings are saved in ~/.wowopenbox.tcl
