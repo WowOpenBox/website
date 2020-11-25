@@ -11,3 +11,5 @@ First functional [release](https://github.com/WowOpenBox/WowOpenBox/releases) wa
 Participate and let's make this the best tool for multiboxing (in addition to being the only Open Source one).
 
 See also a [comparison](https://github.com/WowOpenBox/WowOpenBox/wiki/compare) of WowOpenBox and other multiboxing solutions.
+
+See also the [help](help) page.
