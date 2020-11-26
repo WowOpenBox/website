@@ -13,3 +13,18 @@ Participate and let's make this the best tool for multiboxing (in addition to be
 See also a [comparison](https://github.com/WowOpenBox/WowOpenBox/wiki/compare) of WowOpenBox and other multiboxing solutions.
 
 See also the [help](help) page.
+
+
+## Installation
+
+WowOpenBox is optimized for Microsoft Windows 10.
+
+We will eventually have an all in one installer but for now you need to get Tcl/Tk for windows with twapi first:
+
+https://www.magicsplat.com/tcl-installer/index.html#downloads
+
+Get WOB itself, pick up the latest Zip [release](https://github.com/WowOpenBox/WowOpenBox/releases)
+
+Unzip/double-click and enjoy!
+
+(Please report any problem!)
