@@ -26,6 +26,8 @@ You can change the focus following mouse and auto raise/set foreground and the d
 
 Note that to change the delay you need to hit the Return key
 
+There is a "Track Mouse" (and stop tracking) button (and hotkey, default `Ctrl-Shift-M`) to track coordinates to help doing pixel perfect placement of your windows
+
 ## Need more help? Report a problem? Suggest a new feature?
 
 Make sure you are running the latest [release](https://github.com/WowOpenBox/WowOpenBox/releases)
