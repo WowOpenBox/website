@@ -30,6 +30,8 @@ Note that to change the delay you need to hit the Return key
 
 There is a "Track Mouse" (and stop tracking) button (and hotkey, default `Ctrl-Shift-M`) to track coordinates to help doing pixel perfect placement of your windows
 
+You can toggle the focus follow mouse behavior using a hotkey (default `Ctrl-Shift-F`)
+
 ## Need more help? Report a problem? Suggest a new feature?
 
 Make sure you are running the latest [release](https://github.com/WowOpenBox/WowOpenBox/releases)
