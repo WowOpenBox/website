@@ -23,7 +23,7 @@ We will eventually have an all in one installer but for now you need to get Tcl/
 
 [https://www.magicsplat.com/tcl-installer/index.html#downloads](https://www.magicsplat.com/tcl-installer/index.html#downloads)
 
-Get WOB itself, pick up the latest release Zip: [https://github.com/WowOpenBox/WowOpenBox/releases](https://github.com/WowOpenBox/WowOpenBox/releases)
+Get WOB itself, pick up the latest release Zip: [https://github.com/WowOpenBox/WowOpenBox/releases](https://github.com/WowOpenBox/WowOpenBox/releases) or directly the latest code zip: [https://github.com/WowOpenBox/WowOpenBox/archive/main.zip](https://github.com/WowOpenBox/WowOpenBox/archive/main.zip)
 
 Unzip/double-click and enjoy!
 
