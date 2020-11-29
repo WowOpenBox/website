@@ -6,7 +6,7 @@
 
 1. Select the position you want it to be at(*)
 
-1. Decide if that window should stay on top of others(*)
+1. Decide if that window should stay on top of others. you can use a hotkey (default `Ctrl-Shit-T`) to toggle that setting on the fly.(*)
 
 1. Use the Bnet launcher to start your wow windows, make them "Fullscreen (Windowed)" so they are border and titlebar less and exact dimension of the windows.
 
