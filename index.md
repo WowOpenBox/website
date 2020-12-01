@@ -30,3 +30,5 @@ Or directly the most recent code zip: [https://github.com/WowOpenBox/WowOpenBox/
 Unzip and double-click `WowOpenBox.tkapp` to start it and enjoy!
 
 (Please report any problem!)
+
+![WOB ScreenShot](sshot1.png)
