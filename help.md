@@ -23,7 +23,9 @@
 
 Your settings are saved in `wowopenboxSettings.tcl` in same folder as WowOpenBox and can be edited pressing the "Edit Settings" button.
 
-![ScreenShot](sshot1.png)
+<p align="center">
+<img src="sshot1.png" alt="WOB Screenshot">
+</p>
 
 ## Mouse control
 
