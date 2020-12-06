@@ -34,3 +34,7 @@ Unzip and double-click `WowOpenBox.tkapp` to start it and enjoy!
 <p align="center">
 <img src="sshot1.png" alt="WOB Screenshot">
 </p>
+
+<p align="center">
+<img src="sshotWindowLayout.png" alt="WOB Window Layout">
+</p>

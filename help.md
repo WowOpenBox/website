@@ -1,10 +1,13 @@
 # Wow Open Box online HELP
 
 ## Basic information
+![Window Layout](sshotWindowLayout.png)
 
-1. Select the Size you want your next window to be(*)
+1. Use the "Window Layout" UI to setup your Windows automatically _or_ 
 
-1. Select the position you want it to be at(*)
+1. Manually select the Size you want your next window to be(*)
+
+1. Manually select the position you want it to be at(*)
 
 1. Decide if that window should stay on top of others. you can use a hotkey (default `Ctrl-Shit-T`) to toggle that setting on the fly.(*)
 
@@ -16,7 +19,7 @@
 
 1. Press a hotkey to swap window 1 and window N: default `Ctrl-Shift-F2` will swap 1 and 2,  `Ctrl-Shift-F3` for swapping 1 and 3, etc... changeable in settings (note that it swaps what is currently showing in each position, so if you swap 1-2 (1,2,3->2,1,3) and then 1-3 you end up with 3 1 2). Input on this new feature is welcome. 
 
-*: You can change all settings at any time and they will be saved, per window index when you click "Update".
+*: You can change all settings at any time and they will be saved, per window index when you click "Update" or "Save and Apply" in the Window Layout GUI.
 
 Your settings are saved in `wowopenboxSettings.tcl` in same folder as WowOpenBox and can be edited pressing the "Edit Settings" button.
 
