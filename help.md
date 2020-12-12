@@ -3,7 +3,7 @@
 ## Basic information
 ![Window Layout](sshotWindowLayout.png)
 
-1. Use the "Window Layout" UI to setup your Windows automatically _or_ 
+1. Use the "Window Layout" UI to setup your Windows automatically (and you can now tweak the intelligent auto layouts by dragging any window to reposition it or MouseWheel to resize it) _or_
 
 1. Manually select the Size you want your next window to be(*)
 
