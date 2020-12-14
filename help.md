@@ -3,13 +3,20 @@
 ## Basic information
 ![Window Layout](sshotWindowLayout.png)
 
-1. Use the "Window Layout" UI to setup your Windows automatically (and you can now tweak the intelligent auto layouts by dragging any window to reposition it or resize it by dragging the orange bottom right corner and toggle "Stay on top" by clicking on the text) _or_
+1. Use the "Window Layout" UI to setup your Windows automatically. And you can tweak the intelligent auto layouts by:
+    + Dragging any window to reposition it
+    + Resize it by dragging the orange bottom right corner
+    + Toggle "Stay on top" by clicking on the text
+    + Use the snap to grid feature to constraint the position
+    + Use the arrow keys for precise movement by 1 pixel
 
-1. Manually select the Size you want your next window to be(*)
+1. _and/or tweak it using:_ Manual Setup (from main window):
 
-1. Manually select the position you want it to be at(*)
+    1. Manually select the Size you want your next window to be(*)
 
-1. Decide if that window should stay on top of others. you can use a hotkey (default `Ctrl-Shit-T`) to toggle that setting on the fly.(*)
+    1. Manually select the position you want it to be at(*)
+
+    1. Decide if that window should stay on top of others. you can use a hotkey (default `Ctrl-Shit-T`) to toggle that setting on the fly.(*)
 
 1. Use the Bnet launcher to start your wow windows, make them "Fullscreen (Windowed)" so they are border and titlebar less and exact dimension of the windows.
 
