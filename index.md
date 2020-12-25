@@ -35,6 +35,14 @@ Unzip and double-click `WowOpenBox.tkapp` to start it and enjoy!
 <img src="sshot2.png" alt="WOB Screenshot">
 </p>
 
+Window Layout wizard:
+
 <p align="center">
-<img src="sshotWindowLayout.png" alt="WOB Window Layout">
+<a href="sshotWindowLayout.png"><img src="sshotWindowLayout.png" alt="WOB Window Layout"></a>
+</p>
+
+Optional/toggle-able overlay information indicating which window has focus:
+
+<p align="center">
+<a href="sshotOverlay.png"><img src="sshotOverlay.png" alt="WOB Window Layout"></a>
 </p>
