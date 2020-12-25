@@ -26,9 +26,12 @@
 
 1. Press a hotkey to swap window 1 and window N: default `Ctrl-Shift-F2` will swap 1 and 2,  `Ctrl-Shift-F3` for swapping 1 and 3, etc... changeable in settings (note that it swaps what is currently showing in each position, so if you swap 1-2 (1,2,3->2,1,3) and then 1-3 you end up with 3 1 2). Or rotate the swap between all windows by repeatedly pressing `Ctrl-Shift-F1` for forward swap or `Ctrl-Shift-OEM3` (the ~ ` key on us keyboards) for backward swap.
 
+1. You can toggle the overlay on/off at any time using the default hotkey `Ctrl-Shift-O` or the checkbox on the main window.
+
 *: You can change all settings at any time and they will be saved, per window index when you click "Update" or "Save and Apply" in the Window Layout GUI.
 
 Your settings are saved in `wowopenboxSettings.tcl` in same folder as WowOpenBox and can be edited pressing the "Edit Settings" button.
+
 
 <p align="center">
 <img src="sshot2.png" alt="WOB Screenshot">
