@@ -1,4 +1,4 @@
-# Wow Open Box (Open Source compliant Multiboxing)
+# Wow Open Box (Open Source, compliant, Multiboxing)
 
 Welcome to WowOpenBox.org the hub for truly Open Source and Blizzard rules compliant World of Warcraft MultiBoxing/Dual-Boxing!
 
