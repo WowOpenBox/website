@@ -2,11 +2,11 @@
 
 Welcome to WowOpenBox.org the hub for truly Open Source and Blizzard rules compliant World of Warcraft MultiBoxing/Dual-Boxing!
 
-We just started this effort Mid November 2020!
+We started this effort Mid November 2020 and already have dozens of ever improving feature-full releases and many happy users.
 
 Join the conversation through GitHub, make or help prioritize [issues](https://github.com/WowOpenBox/WowOpenBox/issues/), PRs, or [Discord](https://discord.gg/SMGvEeb)
 
-First functional [release](https://github.com/WowOpenBox/WowOpenBox/releases) was on November 22nd 2020!
+The first of many functional [release](https://github.com/WowOpenBox/WowOpenBox/releases) was on November 22nd 2020!
 
 Participate and let's make this the best tool for multiboxing (in addition to being the only Open Source one).
 
@@ -14,6 +14,7 @@ See also a [comparison](https://github.com/WowOpenBox/WowOpenBox/wiki/compare) o
 
 See also the [help](help) page.
 
+WowOpenBox (WOB) is optimized to be the safest and best solution for Blizzard's World of Warcraft but can also be use to manage multiple windows of other applications or games.
 
 ## Installation
 
