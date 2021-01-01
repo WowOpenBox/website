@@ -20,15 +20,11 @@ WowOpenBox (WOB) is optimized to be the safest and best solution for Blizzard's 
 
 WowOpenBox is optimized for Microsoft Windows 10.
 
-We will eventually have an all in one installer but for now you need to get Tcl/Tk for windows with twapi first (one time thing, not needed to get newer WOB updates later):
+Since release 2.2, WOB/OMB is entirely built automatically from source by GitHub actions CI (continuous integration).
 
-[https://www.magicsplat.com/tcl-installer/index.html#downloads](https://www.magicsplat.com/tcl-installer/index.html#downloads)
+Simply download the all in one binary from the latest release at: [https://github.com/WowOpenBox/WowOpenBox/releases](https://github.com/WowOpenBox/WowOpenBox/releases)
 
-Get WOB itself, visit the releases page and pick up the latest Zip there: [https://github.com/WowOpenBox/WowOpenBox/releases](https://github.com/WowOpenBox/WowOpenBox/releases)
-
-Or directly the most recent code zip: [https://github.com/WowOpenBox/WowOpenBox/archive/main.zip](https://github.com/WowOpenBox/WowOpenBox/archive/main.zip)
-
-Unzip and double-click `WowOpenBox.tkapp` to start it and enjoy!
+Run it and enjoy!
 
 (Please report any problem!)
 
