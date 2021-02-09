@@ -24,12 +24,14 @@ Since release 2.2, WOB/OMB is entirely built automatically from source by GitHub
 
 Simply download the all in one binary from the latest release at: [https://github.com/WowOpenBox/WowOpenBox/releases](https://github.com/WowOpenBox/WowOpenBox/releases)
 
-Run it and enjoy!
+If you want to use the optional Round Robin feature, also download the `OpenMultiBoxing_RR` exe and run that to get RR.
+
+Run either and enjoy!
 
 (Please report any problem!)
 
 <p align="center">
-<img src="sshot2_0.png" alt="WOB / OMB Screenshot">
+<img src="sshot3_0.png" alt="WOB / OMB 3.x Screenshot (with RR)">
 </p>
 
 Window Layout wizard:
