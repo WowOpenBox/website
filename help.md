@@ -24,11 +24,11 @@
 
 1. Press a hotkey to change which window gets the keyboard input: default key are `Ctrl-F1` for Wow 1, `Ctrl-F2` for Wow 2, etc.. or rotate between windows with hotkeys to focus the next window (defaults to `Ctrl-Shift-N`) and previous window (defaults to `Ctrl-Shift-P`). Hotkeys are changeable in settings.
 
-1. Press a hotkey to swap window 1 and window N: default `Ctrl-Shift-F2` will swap 1 and 2,  `Ctrl-Shift-F3` for swapping 1 and 3, etc... changeable in settings (note that it swaps what is currently showing in each position, so if you swap 1-2 (1,2,3->2,1,3) and then 1-3 you end up with 3 1 2). Or rotate the swap between all windows by repeatedly pressing `Ctrl-Shift-F1` for forward swap or `Ctrl-Shift-OEM3` (the ~ ` key on us keyboards) for backward swap.
+1. Press a hotkey to bring window N to the main (1) window: default `Ctrl-Shift-F2` will swap 1 and 2,  `Ctrl-Shift-F3` for swapping 1 and 3, etc... changeable in settings. Or rotate the swap between all windows by repeatedly pressing `Ctrl-OEM3` (OEM3 is the `~` key on us keyboards) for forward swap or `Ctrl-Shift-OEM3` for backward swap.
 
 1. You can toggle the overlay on/off at any time using the default hotkey `Ctrl-Shift-O` or the checkbox on the main window.
 
-1. If you used the optional Round Robin enabler feature, by starting the `OpenMultiBoxing_RR` exe instead of the base one, you will see the Round Robin section in the UI and can use `Ctrl-Shift-R` as the default hotkey to toggle it on/off. Enter which keys should trigger round robin in the entry box (default keys 1 through = and space and . (dot) are round robin keys).
+1. If you used the optional Round Robin enabler feature, by starting the `OpenMultiBoxing_RR` exe instead of the base one, you will see the Round Robin section in the UI and can use `Ctrl-Shift-R` as the default hotkey to toggle it on/off. Enter which keys should trigger round robin in the entry box (default keys 1 through = and SPACE and . (dot) and F10 are round robin keys, see the [FAQ entry](https://github.com/WowOpenBox/WowOpenBox/wiki/FAQ#what-special-key-names-can-i-use-in-the-round-robin-key-list) for complete list of special key names).
 
 *: You can change all settings at any time and they will be saved, per window index when you click "Update" or "Save and Apply" in the Window Layout GUI.
 
