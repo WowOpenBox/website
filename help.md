@@ -28,7 +28,7 @@
 
 1. You can toggle the overlay on/off at any time using the default hotkey `Ctrl-Shift-O` or the checkbox on the main window.
 
-1. If you used the optional Round Robin enabler feature, by starting the `OpenMultiBoxing_RR` exe instead of the base one, you will see the Round Robin section in the UI and can use `Ctrl-Shift-R` as the default hotkey to toggle it on/off. Enter which keys should trigger round robin in the entry box (default keys 1 through = and SPACE and . (dot) and F10 are round robin keys, see the [FAQ entry](https://github.com/WowOpenBox/WowOpenBox/wiki/FAQ#what-special-key-names-can-i-use-in-the-round-robin-key-list) for complete list of special key names).
+1. If you used the optional Round Robin enabler feature, by starting the `OpenMultiBoxing_RR` exe instead of the base one, you will see the Round Robin section in the UI and can use `Ctrl-Shift-R` as the default hotkey to toggle it on/off. Enter which keys should trigger round robin in the entry box (default keys 1 through = and SPACE and . (dot) and F10 are round robin keys, see the [FAQ entry](https://github.com/WowOpenBox/WowOpenBox/wiki/FAQ#what-special-key-names-can-i-use-in-the-round-robin-key-list) for complete list of special key names).  You can use the FocusMain hotkey (`Ctrl-Shift-W`) to always get focus back to the physical main window location (even if it's, say, Wow3 in it). You can use that before using movement keys to ensure you drive from main window even if you didn't complete a full RR rotation back to first window.
 
 *: You can change all settings at any time and they will be saved, per window index when you click "Update" or "Save and Apply" in the Window Layout GUI.
 
