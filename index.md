@@ -31,7 +31,7 @@ Run either and enjoy!
 (Please report any problem!)
 
 <p align="center">
-<img src="sshot3_0.png" alt="WOB / OMB 3.x Screenshot (with RR)">
+<img src="sshot3_5.png" alt="WOB / OMB 3.5 Screenshot (with RR)">
 </p>
 
 Window Layout wizard:
