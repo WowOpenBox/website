@@ -4,7 +4,7 @@ Welcome to WowOpenBox.org the hub for truly Open Source and Blizzard rules compl
 
 We started this effort Mid November 2020 and already have dozens of ever improving feature-full releases and many happy users.
 
-Join the conversation through GitHub, make or help prioritize [issues](https://github.com/WowOpenBox/WowOpenBox/issues/), PRs, or [Discord](https://discord.gg/SMGvEeb)
+Join the conversation through GitHub, make or help prioritize [issues](https://github.com/WowOpenBox/WowOpenBox/issues/), PRs, or on our <a href="https://discord.gg/SMGvEeb"><img src="discord.svg" alt="discord" align="center" height="24pt"></a>
 
 The first of many functional [release](https://github.com/WowOpenBox/WowOpenBox/releases) was on November 22nd 2020!
 
