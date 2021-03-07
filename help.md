@@ -56,4 +56,6 @@ Make sure you are running the latest [release](https://github.com/WowOpenBox/Wow
 
 Check if your [issue](https://github.com/WowOpenBox/WowOpenBox/issues/) or suggestion has already been report and if not make a new detailed one
 
-Reach out on [Discord](https://discord.gg/SMGvEeb)
+Check the [FAQ])(https://github.com/WowOpenBox/WowOpenBox/wiki/FAQ)
+
+Reach out on <a href="https://discord.gg/SMGvEeb"><img src="discord.svg" alt="Discord" align="center" height="24pt"></a>
