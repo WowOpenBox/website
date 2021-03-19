@@ -45,3 +45,7 @@ Optional/toggle-able overlay information indicating which window has focus:
 <p align="center">
 <a href="sshotOverlay.png"><img src="sshotOverlay.png" alt="WOB Window Layout"></a>
 </p>
+
+Intro video (best viewed as recorded, at least 1440p)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s4sCBdkXqUk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
