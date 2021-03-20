@@ -16,6 +16,17 @@ See also the [help](help) page.
 
 WowOpenBox (WOB) is optimized to be the safest and best solution for Blizzard's World of Warcraft but can also be use to manage multiple windows of other applications or games.
 
+# Main features
+
+- Window Layout wizard and manual tweaking; get your game windows exactly how you want to play.
+- Instant swapping of windows; with keyboard hotkeys for fast switching to the next window.
+- Many additional options to switch focus
+  - Focus follow mouse: turns on/off windows accessibility feature so you just hover a window to make it receive keys
+  - Swap focus next/previous/specific window hotkeys
+  - Optional Round robin: after you press a key, focus switches to the next window automatically
+- Free, OpenSource and the Safest option available - WOB respects Blizzard's new directive to not do any software input broadcasting. Multiboxing legitimately with peace of mind.
+- Online help, menus and tooltips on most UI element to help discovering features.
+
 ## Installation
 
 WowOpenBox is optimized for Microsoft Windows 10.
