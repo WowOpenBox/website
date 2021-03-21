@@ -33,7 +33,7 @@ WowOpenBox is optimized for Microsoft Windows 10.
 
 Since release 2.2, WOB/OMB is entirely built automatically from source by GitHub actions CI (continuous integration).
 
-Simply download the all in one zip (OpenMultiBoxing-vX.Y.Z.zip) from the latest release at: [https://github.com/WowOpenBox/WowOpenBox/releases](https://github.com/WowOpenBox/WowOpenBox/releases) and extract it all to your desktop for instance.
+Simply download the all in one zip (OpenMultiBoxing-vX.Y.Z.zip, not the source zip) from the latest release at: [https://github.com/WowOpenBox/WowOpenBox/releases](https://github.com/WowOpenBox/WowOpenBox/releases) and extract it all to your desktop for instance.
 
 If you want to use the optional Round Robin feature, just launch the `OpenMultiBoxing_RR` exe and run that to get RR. If you don't want RR start `OpenMultiBoxing` (with the version) instead (if you want RR you need both binaries, the RR is just a small wrapper enabling RR in the main exe).
 
