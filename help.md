@@ -37,7 +37,7 @@ Your settings are saved in `wowopenboxSettings.tcl` in same folder as WowOpenBox
 Make sure to also explore the File, Option etc menus (menu bar is at the top of the window) and read mouse over tooltips present in most UI elements of WOB/OMB.
 
 <p align="center">
-<img src="sshot3_5.png" alt="WOB 3.5 Screenshot (with RR)">
+<img src="sshot4_2.png" alt="WOB / OMB 4.2 Screenshot (with RR)">
 </p>
 
 ## Mouse control
