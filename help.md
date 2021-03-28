@@ -18,9 +18,9 @@
 
     1. Decide if that window should stay on top of others. you can use a hotkey (default `Ctrl-Shit-T`) to toggle that setting on the fly.(*)
 
-1. Use the Bnet launcher to start your wow windows so you don't need to type your password, WOB/OMB will make them borderless automatically for you, but check in game resolution options to avoid pixelization.
+1. Use the Bnet launcher to start your wow windows so you don't need to type your password, WOB/OMB will make them borderless automatically for you, but check in game resolution options to avoid pixelization (100% Render Scale, Correct window size).
 
-1. Wob since version 4.1 will automatically capture and place the windows in their respective position for you (you can turn that option off in the Option menu). Otherwise, press the "Capture" button or use its hotkey (default `Ctrl-Shift-C`). If you want to manage other games than World of Warcraft, change the game in settings or check the Capture using foreground window (<img src="fgcapture.png"> box)
+1. Wob since version 4.1 will automatically capture and place the windows in their respective position for you (you can turn that option off in the Option menu). Otherwise, press the "Capture" button or use its hotkey (default `Ctrl-Shift-C`). If you want to manage other games than World of Warcraft, see [below](#)
 
 1. Press a hotkey to change which window gets the keyboard input: default key are `Ctrl-F1` for Wow 1, `Ctrl-F2` for Wow 2, etc.. or rotate between windows with hotkeys to focus the next window (defaults to `Ctrl-Shift-N`) and previous window (defaults to `Ctrl-Shift-P`). Hotkeys are changeable in settings.
 
@@ -49,6 +49,24 @@ Note that to change the delay you need to hit the Return key
 There is a "Track Mouse" (and stop tracking) button (and hotkey, default `Ctrl-Shift-M`) to track coordinates to help doing pixel perfect placement of your windows
 
 You can toggle the focus follow mouse behavior using a hotkey (default `Ctrl-Shift-F`)
+
+## Other Games
+
+Use the Game menu to select your Game and/or check the Capture using foreground window:
+
+<p align="center">
+<img src="sshot_game_menu.PNG" alt="Game Menu screenshot">
+</p>
+
+Read the help text mouse over tooltip:
+
+<p align="center">
+<img src="ssho_capturefg.png" alt="Capture foreground screenshot">
+</p>
+
+You must click your game window and use the capture hotkey (`Ctrl-Shift-C` by default, changeable in settings) to use that mode; after which your game name should be recorded in the Game menu and you can stick to normal Auto Capture (Options Menu).
+
+
 
 ## Need more help? Report a problem? Suggest a new feature?
 
