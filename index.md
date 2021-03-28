@@ -14,7 +14,7 @@ See also a [comparison](https://github.com/WowOpenBox/WowOpenBox/wiki/compare) o
 
 See also the [help](help) page.
 
-WowOpenBox (WOB) is optimized to be the safest and best solution for Blizzard's World of Warcraft but can also be use to manage multiple windows of other applications or games.
+WowOpenBox (WOB) is optimized to be the safest and best solution for Blizzard's World of Warcraft but can also be use to manage multiple windows of [other applications or games](help#other-games)).
 
 ## Main features
 
