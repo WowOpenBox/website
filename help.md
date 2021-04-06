@@ -67,10 +67,11 @@ Read the help text mouse over tooltip:
 You must click your game window and use the capture hotkey (`Ctrl-Shift-C` by default, changeable in settings) to use that mode; after which your game name should be recorded in the Game menu and you can stick to normal Auto Capture (Options Menu).
 
 
-
 ## Need more help? Report a problem? Suggest a new feature?
 
 Make sure you are running the latest [release](https://github.com/WowOpenBox/WowOpenBox/releases)
+
+In rare case if things seems wrong, you can try to either restart WOB/OMB, it will resume where you left off so no need to touch your game windows when or if you do. Or you can use the Reset-All hotkey (default binding is `Ctrl-Shift-Alt-R`) which should put all windows in their home position. But if this persists please file a bug and explain in details how to reproduce the problem with minimal steps:
 
 Check if your [issue](https://github.com/WowOpenBox/WowOpenBox/issues/) or suggestion has already been report and if not make a new detailed one
 
