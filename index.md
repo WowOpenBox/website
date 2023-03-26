@@ -16,6 +16,8 @@ See also the [help](help) page.
 
 WowOpenBox (WOB) is optimized to be the safest and best solution for Blizzard's World of Warcraft but can also be use to manage multiple windows of [other applications or games](help#other-games)).
 
+If your game or application allows Broadcasting, switch over to [OMB (OpenMultiboxing)](https://openmultiboxing.org).
+
 ## Main features
 
 - Window Layout wizard and manual tweaking; get your game windows exactly how you want them to be to play.
