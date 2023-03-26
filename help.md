@@ -78,3 +78,5 @@ Check if your [issue](https://github.com/WowOpenBox/WowOpenBox/issues/) or sugge
 Check the [FAQ](https://github.com/WowOpenBox/WowOpenBox/wiki/FAQ)
 
 Reach out on <a href="https://discord.gg/SMGvEeb"><img src="discord.svg" alt="Discord" align="center" height="24pt"></a>
+
+If your game or application allows Broadcasting, switch over to [OMB (OpenMultiboxing)](https://openmultiboxing.org).
