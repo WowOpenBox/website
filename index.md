@@ -2,6 +2,8 @@
 
 Welcome to WowOpenBox.org the hub for truly Open Source and Blizzard rules compliant World of Warcraft MultiBoxing/Dual-Boxing!
 
+_July 2025 Update_: **The Round Robin capability has been entirely removed in an effort to ensure full compliance with Blizzard's (vague) multiboxing policy.**
+
 We started this effort Mid November 2020 and already have dozens of ever improving feature-full releases and many happy users.
 
 Join the conversation through GitHub, make or help prioritize [issues](https://github.com/WowOpenBox/WowOpenBox/issues/), PRs, or on our <a href="https://discord.gg/SMGvEeb"><img src="discord.svg" alt="discord" align="center" height="24pt"></a>
@@ -25,7 +27,6 @@ If your game or application allows Broadcasting, switch over to [OMB (OpenMultib
 - Many additional options to switch which window your keys are going to:
   - Focus follow mouse: turns on/off the Windows&trade; accessibility feature so you just hover a window to make it receive keys
   - Focus next/previous/specific windows with hotkeys.
-  - Optional Round robin: after you press configurable keys, focus switches to the next window automatically.
 - Free, OpenSource and the [Safest](https://github.com/WowOpenBox/WowOpenBox/wiki/FAQ#i-heard-wob-is-safer-than-jmb-how-so) option available: WOB respects Blizzard's new directive to not do any software input broadcasting. Multiboxing legitimately with peace of mind.
 - Online [help](help), menus and tooltips on most UI element to help discovering features.
 
@@ -35,16 +36,14 @@ WowOpenBox is optimized for Microsoft Windows 10.
 
 Since release 2.2, WOB/OMB is entirely built automatically from source by GitHub actions CI (continuous integration).
 
-Simply download the all in one zip (OpenMultiBoxing-vX.Y.Z.zip, not the source zip) from the latest release at: [https://github.com/WowOpenBox/WowOpenBox/releases](https://github.com/WowOpenBox/WowOpenBox/releases) and extract it all to your desktop for instance.
+Simply download the all in one zip (WOB2025-vX.Y.Z.zip, not the source zip) from the latest release at: [https://github.com/WowOpenBox/WowOpenBox/releases](https://github.com/WowOpenBox/WowOpenBox/releases) and extract it all to your desktop for instance.
 
-If you want to use the optional Round Robin feature, just launch the `OpenMultiBoxing_RR` exe and run that to get RR. If you don't want RR start `OpenMultiBoxing` (with the version) instead (if you want RR you need both binaries, the RR is just a small wrapper enabling RR in the main exe).
-
-Run either and enjoy!
+Run the `WOB2025` exe and enjoy!
 
 (Please report any problem!)
 
 <p align="center">
-<img src="sshot4_2.png" alt="WOB / OMB 4.2 Screenshot (with RR)">
+<img src="wob2025_4_9.png" alt="WOB2025 4.9 Screenshot">
 </p>
 
 Window Layout wizard:
