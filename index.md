@@ -2,7 +2,7 @@
 
 Welcome to WowOpenBox.org the hub for truly Open Source and Blizzard rules compliant World of Warcraft MultiBoxing/Dual-Boxing!
 
-_July 2025 Update_: **The Round Robin capability has been entirely removed in an effort to ensure full compliance with Blizzard's (vague) multiboxing policy.**
+_July 2025 Update_: **The Round Robin capability has been entirely removed in an effort to ensure full compliance with Blizzard's multiboxing policy.**
 
 We started this effort Mid November 2020 and already have dozens of ever improving feature-full releases and many happy users.
 
@@ -33,6 +33,9 @@ If your game or application allows Broadcasting, switch over to [OMB (OpenMultib
   - Focus next/previous/specific windows with hotkeys.
 - Free, OpenSource and the [Safest](https://github.com/WowOpenBox/WowOpenBox/wiki/FAQ#i-heard-wob-is-safer-than-jmb-how-so) option available: WOB respects Blizzard's new directive to not do any software input broadcasting. Multiboxing legitimately with peace of mind.
 - Online [help](help), menus and tooltips on most UI element to help discovering features.
+
+Need a great addon to help your WoW multiboxing?<br>
+We also wrote [MAMA](https://github.com/mooreatv/MAMA-multiboxing) for you!
 
 ## Installation
 
