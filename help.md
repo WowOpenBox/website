@@ -63,10 +63,10 @@ Since v4.11.0 (needs the WOB2027 `.exe`, a WOB2025 one running an updated WOB sh
 Since v4.11.0 (also needs the WOB2027 `.exe`), check "Mirrored" in the Window Layout window, then "Save and Apply": all the game windows are stacked at the main position, under the main window, and the other positions of the layout show live mirrors of them instead of the actual windows.
 
 - Swaps are instant: windows are never resized, the new main window just comes on top.
-- Click a mirror to make that window the main one.
+- Swap with the hotkeys, or click a mirror to make that window the main one. WOB doesn't move the mouse: it stays on that mirror, which now shows the previous main (clicking again swaps back, a double click counts as one click).
 - If a position's aspect ratio differs from the main window's, its mirror keeps the proportions with black bars (use the "Same" or a fixed aspect ratio to avoid them).
 - Stay on top applies to the mirrors (the stacked windows never cover the main one).
-- Focus follows mouse only applies to the main window. When you need the actual windows (e.g. to click directly in a small one), keep another profile with the same layout but not mirrored and switch to it with the profile hotkeys.
+- Focus follows mouse only applies to the main window. If you play with it, or need the actual windows (e.g. to click directly in a small one), keep another profile with the same layout but not mirrored and switch to it with the profile hotkeys.
 - When you exit WOB, the mirrors go away so the windows stacked under main are put back in their (small) layout positions; the setting stays on and they get stacked again the next time WOB starts.
 - The setting is saved with the profile.
 
