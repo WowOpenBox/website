@@ -44,7 +44,7 @@ File > "Hotkeys..." shows all the hotkeys. Click one and press the new key combi
 
 ### Mirrors
 
-Since v4.11.0 (needs the v4.11.0 or newer `.exe`, an older one running an updated WOB shows a message with a link to download it), mirrors are live copies of an area of a game window, shown anywhere on screen at any zoom: e.g. a bigger minimap, a target frame or the portraits of the small windows next to the main one. They are drawn by Windows (no slowdown) and stay live even when the window they copy is covered by another one.
+Since v4.11.0 (needs the WOB2027 `.exe`, a WOB2025 one running an updated WOB shows a message with a link to download it), mirrors are live copies of an area of a game window, shown anywhere on screen at any zoom: e.g. a bigger minimap, a target frame or the portraits of the small windows next to the main one. They are drawn by Windows (no slowdown) and stay live even when the window they copy is covered by another one.
 
 - File > "Mirrors..." opens the Mirrors window. While it is open you are in **edit mode**: mirrors have a colored border and can be changed.
 - "Add a mirror": click the game window to copy from (in a stacked layout, bring the one you want to the front first), then drag a rectangle around the area. The new mirror shows next to it at its actual size (1:1).
@@ -60,10 +60,10 @@ Since v4.11.0 (needs the v4.11.0 or newer `.exe`, an older one running an update
 
 ### Mirrored layout
 
-Since v4.11.0 (also needs the v4.11.0 or newer `.exe`), check "Mirrored" in the Window Layout window, then "Save and Apply": all the game windows are stacked at the main position, under the main window, and the other positions of the layout show live mirrors of them instead of the actual windows.
+Since v4.11.0 (also needs the WOB2027 `.exe`), check "Mirrored" in the Window Layout window, then "Save and Apply": all the game windows are stacked at the main position, under the main window, and the other positions of the layout show live mirrors of them instead of the actual windows.
 
 - Swaps are instant: windows are never resized, the new main window just comes on top.
-- Click a mirror to make that window the main one; the mouse moves to the same spot in it.
+- Click a mirror to make that window the main one.
 - If a position's aspect ratio differs from the main window's, its mirror keeps the proportions with black bars (use the "Same" or a fixed aspect ratio to avoid them).
 - Stay on top applies to the mirrors (the stacked windows never cover the main one).
 - Focus follows mouse only applies to the main window. When you need the actual windows (e.g. to click directly in a small one), keep another profile with the same layout but not mirrored and switch to it with the profile hotkeys.
