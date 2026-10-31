@@ -20,7 +20,7 @@
 
 1. Use the Bnet launcher to start your wow windows so you don't need to type your password, WOB/OMB will make them borderless automatically for you, but check in game resolution options to avoid pixelization (100% Render Scale, Correct window size).
 
-1. Wob since version 4.1 will automatically capture and place the windows in their respective position for you (you can turn that option off in the Option menu). Otherwise, press the "Capture" button or use its hotkey (default `Ctrl-Shift-C`). If you want to manage other games than World of Warcraft, see the ['Other Games' section below](#other-games)
+1. Wob since version 4.1 will automatically capture and place the windows in their respective position for you (you can turn that option off in the Option menu). Since v4.11.0 it fills the lowest free window number first: a game restarted after its window was closed (shown as "lost") gets its number back, and a window you "Forget" (right click in the list) moves to a lower free number if there is one, otherwise it stays out of WOB. Otherwise, press the "Capture" button or use its hotkey (default `Ctrl-Shift-C`). If you want to manage other games than World of Warcraft, see the ['Other Games' section below](#other-games)
 
 1. Press a hotkey to change which window gets the keyboard input: default key are `Ctrl-F1` for Wow 1, `Ctrl-F2` for Wow 2, etc.. or rotate between windows with hotkeys to focus the next window (defaults to `Ctrl-Shift-N`) and previous window (defaults to `Ctrl-Shift-P`). Hotkeys can be changed in File > "Hotkeys..." (see [below](#hotkeys)).
 
@@ -41,6 +41,34 @@ File > "Hotkeys..." shows all the hotkeys. Click one and press the new key combi
 <p align="center">
 <img src="sshotHotkeys.png" alt="WOB Hotkeys window">
 </p>
+
+### Mirrors
+
+Since v4.11.0 (needs the WOB2027 `.exe`, a WOB2025 one running an updated WOB shows a message with a link to download it), mirrors are live copies of an area of a game window, shown anywhere on screen at any zoom: e.g. a bigger minimap, a target frame or the portraits of the small windows next to the main one. They are drawn by Windows (no slowdown) and stay live even when the window they copy is covered by another one.
+
+- File > "Mirrors..." opens the Mirrors window. While it is open you are in **edit mode**: mirrors have a colored border and can be changed.
+- "Add a mirror": click the game window to copy from (in a stacked layout, bring the one you want to the front first), then drag a rectangle around the area. The new mirror shows next to it at its actual size (1:1).
+- In edit mode:
+   - Drag a mirror to move it.
+   - Drag one of its sides or corners to extend or shrink the copied area (the zoom stays the same).
+   - Mouse wheel to zoom in/out, by steps (1/3, 1/2, 1, 1.5, 2, 3...).
+   - Right click for: "Select area again...", the Zoom submenu (shows the current zoom), "Stay on top", the source window, "Delete" and "Done editing".
+- A mirror shows the window it was taken from, wherever that window currently is in the layout (when that window goes back to a small position, the mirror shows the same area of it, just less sharp). Pick "Source: main window" in its right click menu to have it show whichever window is in the main position instead. The zoom shown in the menu is relative to the source window at its current size.
+- Outside of edit mode, mirrors let mouse clicks go to the window under them and never take the keyboard focus.
+- "Show mirrors" in the Mirrors window shows/hides them all. There are also "Show/hide mirrors" and "Mirrors edit mode toggle" hotkeys, unset by default (set them in File > "Hotkeys...").
+- Mirrors are saved with the profile.
+
+### Mirrored layout
+
+Since v4.11.0 (also needs the WOB2027 `.exe`), check "Mirrored" in the Window Layout window, then "Save and Apply": all the game windows are stacked at the main position, under the main window, and the other positions of the layout show live mirrors of them instead of the actual windows.
+
+- Swaps are instant: windows are never resized, the new main window just comes on top.
+- Swap with the hotkeys rather than by clicking: you can also click a mirror to make that window the main one, but WOB doesn't move the mouse, so you then need to bring it back to the main window yourself (the mirror now shows the previous main: clicking it again swaps back, a double click counts as one click).
+- If a position's aspect ratio differs from the main window's, its mirror keeps the proportions with black bars (use the "Same" or a fixed aspect ratio to avoid them).
+- Stay on top applies to the mirrors (the stacked windows never cover the main one).
+- Focus follows mouse only applies to the main window. If you play with it, or need the actual windows (e.g. to click directly in a small one), keep another profile with the same layout but not mirrored and switch to it with the profile hotkeys.
+- When you exit WOB, the mirrors go away so the windows stacked under main are put back in their (small) layout positions; the setting stays on and they get stacked again the next time WOB starts.
+- The setting is saved with the profile.
 
 ### Settings
 
