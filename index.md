@@ -26,6 +26,8 @@ If your game or application allows Broadcasting, switch over to [OMB (OpenMultib
    - Save different layouts as profiles (File > New Profile...) and cycle through them with the Ctrl-Shift-L (next) and Ctrl-Shift-Alt-L (previous) hotkeys. Pick which profiles are in the rotation with Profile > "Profiles in rotation..." (all but Default by default).
 - Instant swapping of windows; with keyboard hotkeys for fast switching to the next or any specific window.
    - Change any hotkey in File > "Hotkeys...": click it and press the new key combination (right click clears it, Undo goes back).
+- **Mirrors** (WOB2027 v4.11.0+): live, zoomable copies of an area of any game window (e.g. a bigger minimap, or the portraits of the small windows), anywhere on screen. File > "Mirrors...": "Add a mirror", click a window, drag the area; then drag to move, drag the sides to extend/shrink the area, mouse wheel to zoom, right click for options. Mirrors stay on their window as it gets swapped (or follow whichever window is main) and let mouse clicks through outside of edit mode. See the [help](help#mirrors).
+   - **Mirrored layout**: check "Mirrored" in Window Layout to stack all the game windows under the main one and show the other positions as live mirrors of them: instant swaps (no resizing), click a mirror to make that window main. See the [help](help#mirrored-layout).
 - Many additional options to switch which window your keys are going to:
   - Focus follow mouse: turns on/off the Windows&trade; accessibility feature so you just hover a window to make it receive keys (instantly: WOB sets the hover delay to 0 ms, below the 100 ms minimum of the Windows slider)
   - Focus next/previous/specific windows with hotkeys.
@@ -38,9 +40,11 @@ WowOpenBox is optimized for Microsoft Windows 10.
 
 Since release 2.2, WOB/OMB is entirely built automatically from source by GitHub actions CI (continuous integration).
 
-Simply download the all in one zip (WOB2025-vX.Y.Z.zip, not the source zip) from the latest release at: [https://github.com/WowOpenBox/WowOpenBox/releases](https://github.com/WowOpenBox/WowOpenBox/releases) and extract it all to your desktop for instance.
+Simply download the all in one zip (WOB2027-vX.Y.Z.zip, not the source zip) from the latest release at: [https://github.com/WowOpenBox/WowOpenBox/releases](https://github.com/WowOpenBox/WowOpenBox/releases) and extract it all to your desktop for instance.
 
-Run the `WOB2025` exe and enjoy!
+Run the `WOB2027` exe and enjoy!
+
+Coming from WOB2025: extract the new zip in the same folder (or copy your `wowopenboxSettings*.tcl` files next to the new exe) to keep your settings and profiles. The WOB2025 exe keeps working and updating, only the mirrors need the WOB2027 one.
 
 (Please report any problem!)
 
