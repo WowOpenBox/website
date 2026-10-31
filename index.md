@@ -41,7 +41,13 @@ We also wrote [MAMA](https://github.com/mooreatv/MAMA-multiboxing) for you!
 
 WowOpenBox is optimized for Microsoft Windows 10.
 
-Since release 2.2, WOB/OMB is entirely built automatically from source by GitHub actions CI (continuous integration).
+Easiest: get it from the Microsoft Store, which installs and updates it for you (no Windows warning on first run):
+
+<a href="https://apps.microsoft.com/detail/9P57VRK9036Q"><img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200" alt="Get it from Microsoft"/></a>
+
+The Store version keeps its settings and profiles in `Documents\WowOpenBox` (copy your `wowopenboxSettings*.tcl` files there to bring yours).
+
+Or the zip: since release 2.2, WOB/OMB is entirely built automatically from source by GitHub actions CI (continuous integration).
 
 Simply download the all in one zip (WOB2027-vX.Y.Z.zip, not the source zip) from the latest release at: [https://github.com/WowOpenBox/WowOpenBox/releases](https://github.com/WowOpenBox/WowOpenBox/releases) and extract it all to your desktop for instance.
 
