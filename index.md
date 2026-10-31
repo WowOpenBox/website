@@ -2,7 +2,7 @@
 
 Welcome to WowOpenBox.org the hub for truly Open Source and Blizzard rules compliant World of Warcraft MultiBoxing/Dual-Boxing!
 
-_July 2025 Update_: **The Round Robin capability has been entirely removed in an effort to ensure full compliance with Blizzard's (vague) multiboxing policy.**
+_July 2025 Update_: **The Round Robin capability has been entirely removed in an effort to ensure full compliance with Blizzard's multiboxing policy.**
 
 We started this effort Mid November 2020 and already have dozens of ever improving feature-full releases and many happy users.
 
