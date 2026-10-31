@@ -27,7 +27,7 @@ If your game or application allows Broadcasting, switch over to [OMB (OpenMultib
 - Instant swapping of windows; with keyboard hotkeys for fast switching to the next or any specific window.
    - Change any hotkey in File > "Hotkeys...": click it and press the new key combination (right click clears it, Undo goes back).
 - Many additional options to switch which window your keys are going to:
-  - Focus follow mouse: turns on/off the Windows&trade; accessibility feature so you just hover a window to make it receive keys
+  - Focus follow mouse: turns on/off the Windows&trade; accessibility feature so you just hover a window to make it receive keys (instantly: WOB sets the hover delay to 0 ms, below the 100 ms minimum of the Windows slider)
   - Focus next/previous/specific windows with hotkeys.
 - Free, OpenSource and the [Safest](https://github.com/WowOpenBox/WowOpenBox/wiki/FAQ#i-heard-wob-is-safer-than-jmb-how-so) option available: WOB respects Blizzard's new directive to not do any software input broadcasting. Multiboxing legitimately with peace of mind.
 - Online [help](help), menus and tooltips on most UI element to help discovering features.
