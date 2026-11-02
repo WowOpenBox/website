@@ -77,8 +77,12 @@ Your settings are saved in `wowopenboxSettings.tcl` in same folder as WowOpenBox
 Make sure to also explore the File, Option etc menus (menu bar is at the top of the window) and read mouse over tooltips present in most UI elements of WOB/OMB.
 
 <p align="center">
-<img src="wob2025_4_9.png" alt="WOB2025 4.9 Screenshot">
+<a href="wob2027_4_14_light.png"><img src="wob2027_4_14_light.png" alt="WOB2027 4.14 Screenshot (light)"></a>
 </p>
+
+### Appearance (dark mode)
+
+Since WOB2027 v4.14.0, in the Option menu: "Appearance: same as Windows" (the default: follows Windows' app mode, Settings > Personalization > Colors > "Choose your app mode", also when you change it while WOB runs), "Appearance: light" or "Appearance: dark". Dark mode applies to all the WOB windows: title bars, menus, dialogs and message boxes ([screenshot](wob2027_4_14.png)). The choice is saved in your settings (`appearance`: `auto`, `light` or `dark`).
 
 ## Mouse control
 
