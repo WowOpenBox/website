@@ -22,6 +22,7 @@ If your game or application allows Broadcasting, switch over to [OMB (OpenMultib
 
 ## Main features
 
+- **Dark mode** (WOB2027 v4.14.0+): Option menu > Appearance: same as Windows (the default, follows it when you change it), light or dark. See the [help](help#appearance-dark-mode).
 - Window Layout wizard and manual tweaking; get your game windows exactly how you want them to be to play.
    - Save different layouts as profiles (File > New Profile...) and cycle through them with the Ctrl-Shift-L (next) and Ctrl-Shift-Alt-L (previous) hotkeys. Pick which profiles are in the rotation with Profile > "Profiles in rotation..." (all but Default by default).
 - Instant swapping of windows; with keyboard hotkeys for fast switching to the next or any specific window.
@@ -53,12 +54,12 @@ Simply download the all in one zip (WOB2027-vX.Y.Z.zip, not the source zip) from
 
 Run the `WOB2027` exe and enjoy!
 
-Coming from WOB2025: extract the new zip in the same folder (or copy your `wowopenboxSettings*.tcl` files next to the new exe) to keep your settings and profiles. The WOB2025 exe keeps working and updating, only the mirrors need the WOB2027 one.
+Coming from an older version: extract the new zip in the same folder (or copy your `wowopenboxSettings*.tcl` files next to the new exe) to keep your settings and profiles. v4.14.0 and newer need their new exe: auto update alone isn't enough, an older exe tells you so and keeps running your current version.
 
 (Please report any problem!)
 
 <p align="center">
-<img src="wob2025_4_9.png" alt="WOB2025 4.9 Screenshot">
+<a href="wob2027_4_14.png"><img src="wob2027_4_14.png" alt="WOB2027 4.14 Screenshot (dark mode)"></a>
 </p>
 
 Window Layout wizard:
