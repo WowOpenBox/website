@@ -52,9 +52,10 @@ Since v4.11.0 (needs the WOB2027 `.exe`, a WOB2025 one running an updated WOB sh
    - Drag a mirror to move it.
    - Drag one of its sides or corners to extend or shrink the copied area (the zoom stays the same).
    - Mouse wheel to zoom in/out, by steps (1/3, 1/2, 1, 1.5, 2, 3...).
-   - Right click for: "Select area again...", the Zoom submenu (shows the current zoom), "Stay on top", the source window, "Delete" and "Done editing".
+   - Right click for: "Select area again...", the Zoom submenu (shows the current zoom), the Opacity submenu, "Stay on top", "Click or focus follows mouse focuses the source window", the source window, "Delete" and "Done editing".
 - A mirror shows the window it was taken from, wherever that window currently is in the layout (when that window goes back to a small position, the mirror shows the same area of it, just less sharp). Pick "Source: main window" in its right click menu to have it show whichever window is in the main position instead. The zoom shown in the menu is relative to the source window at its current size.
-- Outside of edit mode, mirrors let mouse clicks go to the window under them and never take the keyboard focus.
+- Outside of edit mode (v4.15.0+), clicking a mirror gives the keyboard focus to its source window, and so does just moving the mouse into it with focus follows mouse on (with it off, Windows doesn't let us change the focus on mouse moves alone). Uncheck "Click or focus follows mouse focuses the source window" in its right click menu to have the mirror let mouse clicks go to the window under it instead (and leave the focus where it is).
+- Opacity (v4.15.0+): right click > Opacity (100% down to 30%) makes a mirror see-through, so you still see what's under it.
 - "Show mirrors" in the Mirrors window shows/hides them all. There are also "Show/hide mirrors" and "Mirrors edit mode toggle" hotkeys, unset by default (set them in File > "Hotkeys...").
 - Mirrors are saved with the profile.
 
