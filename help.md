@@ -16,6 +16,8 @@
 
     1. Manually select the position you want it to be at(*)
 
+    1. While the Window Layout is open, the main window follows it: click (or move, resize) a window in the layout and its number, size, position and stay on top show in the main window; type an exact size or position there and press `Enter` to see it in the layout. Nothing changes for real until "Save and Apply" in the layout (or "Update" in the main window for that one window); closing the layout without saving discards the changes.
+
     1. Decide if that window should stay on top of others. you can use a hotkey (default `Ctrl-Shift-T`) to toggle that setting on the fly.(*)
 
 1. Use the Bnet launcher to start your wow windows so you don't need to type your password, WOB/OMB will make them borderless automatically for you, but check in game resolution options to avoid pixelization (100% Render Scale, Correct window size). See also the `launchwow*.bat` files in the WOB zip file (the Microsoft Store version puts them in your `Documents\WowOpenBox` folder): they start several WoW windows at once, without Battle.net, so you log in each window. For the password, use File > "Clipboard copy/paster...": type it once (only `*` show), click Copy, then `Ctrl-V` it in each window (Clear, or closing it, erases it). Read [LaunchWoW.txt](https://github.com/WowOpenBox/WowOpenBox/blob/main/LaunchWoW.txt) first: each window's WoW settings start as a copy of your current ones, so set up WoW (Windowed mode, graphics...) before the first use.
