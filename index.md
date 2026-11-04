@@ -46,7 +46,7 @@ Easiest: get it from the Microsoft Store, which installs and updates it for you 
 
 <a href="https://apps.microsoft.com/detail/9P57VRK9036Q"><img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200" alt="Get it from Microsoft"/></a>
 
-The Store version keeps its settings and profiles in `Documents\WowOpenBox` (copy your `wowopenboxSettings*.tcl` files there to bring yours).
+The Store version keeps its settings and profiles in `Documents\WowOpenBox` (copy your `wowopenboxSettings*.tcl` files there to bring yours). It also puts there the `launchwow*.bat` files, to start several WoW windows at once without Battle.net, and [LaunchWoW.txt](https://github.com/WowOpenBox/WowOpenBox/blob/main/LaunchWoW.txt) which explains them.
 
 Or the zip: since release 2.2, WOB/OMB is entirely built automatically from source by GitHub actions CI (continuous integration).
 
