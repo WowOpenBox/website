@@ -26,7 +26,9 @@
 
 1. Press a hotkey to bring window N to the main (1) window: default `Ctrl-Shift-F2` will swap 1 and 2,  `Ctrl-Shift-F3` for swapping 1 and 3, etc... Or rotate the swap between all windows by repeatedly pressing `Ctrl-~` for forward swap or `Ctrl-Shift-~` for backward swap.
 
-1. You can toggle the overlay on/off at any time using the default hotkey `Ctrl-Shift-O` or the checkbox on the main window.
+1. You can toggle the overlay on/off at any time using the default hotkey `Ctrl-Shift-O` or the checkbox on the main window. The "Overlay config" button next to it changes how it looks and:
+    + "Clickable overlay": click a window's number to make it the main one (window 1's number swaps to the next window).
+    + "Click to swap all area on windows 2+" (with Clickable overlay on): the whole area of windows 2+ becomes clickable (darkened by the overlay) and a click anywhere in one swaps it to the main window, but you can't click inside those windows anymore. The [Mirrored layout](#mirrored-layout) is now the better way to click to swap: clicking a mirror swaps instantly, without covering anything (WOB doesn't move the mouse: bring it back to the main window yourself).
 
 1. You can use the FocusMain hotkey (`Ctrl-Shift-W`) to always get focus back to the physical main window location (even if it's, say, Wow3 in it).
 
