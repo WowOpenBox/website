@@ -18,7 +18,7 @@
 
     1. Decide if that window should stay on top of others. you can use a hotkey (default `Ctrl-Shift-T`) to toggle that setting on the fly.(*)
 
-1. Use the Bnet launcher to start your wow windows so you don't need to type your password, WOB/OMB will make them borderless automatically for you, but check in game resolution options to avoid pixelization (100% Render Scale, Correct window size).
+1. Use the Bnet launcher to start your wow windows so you don't need to type your password, WOB/OMB will make them borderless automatically for you, but check in game resolution options to avoid pixelization (100% Render Scale, Correct window size). See also the `launchwow*.bat` files included in the WOB zip file (the Microsoft Store version puts them in `Documents\WowOpenBox`) for a way to start multiple games windows at once (but you'll need to enter credentials individually). Read [LaunchWoW.txt](https://github.com/WowOpenBox/WowOpenBox/blob/main/LaunchWoW.txt) first: each window gets its own copy of your current WoW config, so set up your basic settings (windowed mode, graphics...) before the first use.
 
 1. Wob since version 4.1 will automatically capture and place the windows in their respective position for you (you can turn that option off in the Option menu). Since v4.11.0 it fills the lowest free window number first: a game restarted after its window was closed (shown as "lost") gets its number back, and a window you "Forget" (right click in the list) moves to a lower free number if there is one, otherwise it stays out of WOB. Otherwise, press the "Capture" button or use its hotkey (default `Ctrl-Shift-C`). If you want to manage other games than World of Warcraft, see the ['Other Games' section below](#other-games)
 
