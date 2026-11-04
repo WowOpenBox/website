@@ -46,7 +46,7 @@ File > "Hotkeys..." shows all the hotkeys. Click one and press the new key combi
 
 Since v4.11.0 (needs the WOB2027 `.exe`, a WOB2025 one running an updated WOB shows a message with a link to download it), mirrors are live copies of an area of a game window, shown anywhere on screen at any zoom: e.g. a bigger minimap, a target frame or the portraits of the small windows next to the main one. They are drawn by Windows (no slowdown) and stay live even when the window they copy is covered by another one.
 
-- File > "Mirrors..." opens the Mirrors window. While it is open you are in **edit mode**: mirrors have a colored border and can be changed.
+- The "Mirrors" button of the main window (or File > "Mirrors...") opens the Mirrors window. While it is open you are in **edit mode**: mirrors have a colored border and can be changed.
 - "Add a mirror": click the game window to copy from (in a stacked layout, bring the one you want to the front first), then drag a rectangle around the area. The new mirror shows next to it at its actual size (1:1).
 - In edit mode:
    - Drag a mirror to move it.
@@ -73,7 +73,7 @@ Since v4.11.0 (also needs the WOB2027 `.exe`), check "Mirrored" in the Window La
 
 ### Settings
 
-Your settings are saved in `wowopenboxSettings.tcl` in same folder as WowOpenBox and can be edited pressing the "Edit Settings" button.
+Your settings are saved in `wowopenboxSettings.tcl` (and `wowopenboxSettings<profile>.tcl` for profiles) in the same folder as WowOpenBox (`Documents\WowOpenBox` for the Microsoft Store version); File > "Open settings folder" opens it. Almost everything can be changed in WOB's windows and menus, but you can also edit them with File > "Edit raw settings...": that opens Notepad and a small window with a "Reload settings" button to click once you saved your changes (also in the File menu).
 
 Make sure to also explore the File, Option etc menus (menu bar is at the top of the window) and read mouse over tooltips present in most UI elements of WOB/OMB.
 
